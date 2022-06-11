@@ -1,0 +1,48 @@
+Metod: GET | statuskod: 200 | endpoint: /books  function(req, res, next) {
+    app.handle(req, res, next);
+  } hostname:[object Object]
+Metod: GET | statuskod: 200 | endpoint: /books hämtar alla böcker Lördag 11 juni 2022 Kl 21:58:03 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books hämtar alla böcker Lördag 11 juni 2022 Kl 21:58:05 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books hämtar alla böcker Lördag 11 juni 2022 Kl 22:03:29 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:07:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:08:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:09:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:09:06 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:09:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:12:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:13:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:14:51 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:14:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:15:59 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:16:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:16:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:16:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:30 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar undefined Lördag 11 juni 2022 Kl 22:20:31 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:23:48 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:23:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:23:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:25:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:25:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:26:05 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar alla böcker Lördag 11 juni 2022 Kl 22:29:05 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar alla böcker Lördag 11 juni 2022 Kl 22:29:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar alla böcker Lördag 11 juni 2022 Kl 22:29:47 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar alla böcker Lördag 11 juni 2022 Kl 22:29:48 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:35 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:31:53 localhost:4000
