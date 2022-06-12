@@ -1,36 +1,11 @@
-//require("dotenv").config();
+require("dotenv").config();
 const express = require("express");
 //const fs = require("fs");
 const app = express();
 const port = require("./routers/endpoints");
-//onst jwt = require("jsonwebtoken");
+const jwt = require("jsonwebtoken");
 const log = require("./middlewares/log");
-//const auth = require("./middlewares/auth");
-
-const errorRes = (req, res, next, error) => {
-  console.log("Error");
-
-  next();
-};
-/*
-const log = (req, res, next) => {
-    res.on("finish", () => {
-      let info = JSON.stringify(req.body, null, 2);
-      let now = new Date();
-      let { ip, method, url, protocol, hostname } = req;
-
-      let logRow = 
-      `${timeStamp()}
-      Body ${info} ${method}/${url} on: ${protocol}://${hostname}:${port} status: ${res.statusCode} \n`;
-      fs.writeFile("./log.txt", logRow, { flag: "a+" }, (err) => {
-        if (err) throw err;
-        console.log("Log updated");
-      });
-    });
-    next();
-};
-*/
-
+const auth = require("./middlewares/auth");
 
 app.use(express.json());
 

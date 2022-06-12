@@ -13,7 +13,6 @@ const log = (req, res, next) => {
   res.on("finish", async () => {
     let id = req.params.id;
     result = await booksModel.getOne(id).then(function (result) {
-      console.log(result[0].title);
       let mess;
       if (id === undefined) id = false;
       let now = timeStamp();
@@ -23,7 +22,7 @@ const log = (req, res, next) => {
         if (endpoints[2] === "register") mess = "skapar ny användare";
         if (endpoints[2] === "login") mess = "loggar in användare";
       }
-      if (endpoints[1] === "books") mess = "hämtar alla böcker";
+      if (endpoints[1] === "books" && !endpoints[2] === "books") mess = "hämtar alla böcker";
       if (id && method === "POST") mess = "skapar ny bok";
       if (id && method === "GET") mess = `hämtar en bok`;
       if (id && method === "PATCH") mess = "uppdaterar bok";

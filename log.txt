@@ -46,3 +46,516 @@ Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa
 Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:37 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:30:38 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Lördag 11 juni 2022 Kl 22:31:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Söndag 12 juni 2022 Kl 9:16:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Söndag 12 juni 2022 Kl 9:16:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Söndag 12 juni 2022 Kl 9:16:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books hämtar alla böcker Söndag 12 juni 2022 Kl 9:38:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ hämtar alla böcker Söndag 12 juni 2022 Kl 9:38:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books hämtar alla böcker Söndag 12 juni 2022 Kl 9:38:27 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me/ hämtar info om inloggad användare Söndag 12 juni 2022 Kl 9:40:09 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me/ hämtar info om inloggad användare Söndag 12 juni 2022 Kl 9:40:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 9:40:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/edd141aa-de62-4c64-8c72-d2ff7a7aa3bd hämtar en bok Söndag 12 juni 2022 Kl 9:40:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 9:40:29 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/98bc6ebd-2504-4111-bae3-9837453889e4 hämtar en bok Söndag 12 juni 2022 Kl 9:40:58 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:41:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:44:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:44:48 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:45:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:45:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:45:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:46:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:48:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:48:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:49:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:49:09 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:49:55 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/1 hämtar en bok Söndag 12 juni 2022 Kl 9:50:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 9:52:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 9:59:49 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 10:02:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 10:02:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:10:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:11:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:14:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:14:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:14:59 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:15:01 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:18:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:18:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:19:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:19:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 12:19:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 12:19:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 12:19:30 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 12:19:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:19:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:24:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:24:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:24:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:28:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:37:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:37:55 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:37:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:38:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:38:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:38:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:38:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 12:39:40 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 12:46:43 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 12:47:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 12:48:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 13:18:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 13:35:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:00:30 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:00:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:01:06 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:01:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:01:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:01:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:02:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:02:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:02:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:02:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:03:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:03:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:03:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:03:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:03:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 14:03:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 14:04:13 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /books/d9f30c1b-1d3d-46dc-983d-c45e0149b8d9 ta bort bok Söndag 12 juni 2022 Kl 14:04:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:04:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:05:42 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:05:49 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:06:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:06:33 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:08:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:08:52 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:10:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:11:46 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:12:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:12:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:12:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:13:02 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:13:08 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:16:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:16:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:21:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:21:50 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:21:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:21:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:22:24 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:29 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:30 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:31 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:32 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:32 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:33 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:33 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:33 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:33 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:33 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:34 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:34 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:34 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:34 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:35 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:35 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:36 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:22:49 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:24:13 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:24:17 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:25:51 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:26:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:26:04 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:28:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:03 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:04 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:29:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:32:58 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:33:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:33:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:33:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:35:59 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:36:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:36:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:36:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 14:37:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 14:37:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 14:37:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 14:37:48 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /books/ undefined Söndag 12 juni 2022 Kl 14:38:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:39:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:41:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:41:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:41:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:41:47 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:41:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:42:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:42:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:43:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:43:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:43:26 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:43:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:47:59 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 14:48:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:48:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:48:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:48:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:48:58 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:49:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:49:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 14:50:18 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:47 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:50 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:50:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:53:50 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:53:57 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:54:05 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:54:31 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 14:54:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:04:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:04:29 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:11:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:11:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:11:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:15:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:15:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:17:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 15:17:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 15:17:18 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:17:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:17:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:17:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 15:18:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:18:35 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:18:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/register skapar ny användare Söndag 12 juni 2022 Kl 15:19:23 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:20:41 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:20:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:28:01 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:28:04 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:30:31 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:30:32 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:30:37 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:30:42 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:31:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:20 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:27 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:31:29 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:32:49 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:32:55 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:35:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:35:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:38:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:38:10 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:39:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:39:10 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:39:13 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:43:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:43:29 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:54:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:54:22 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:55:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:56:31 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:58:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:58:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:58:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 15:58:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:58:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:58:25 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:59:58 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:59:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:59:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 15:59:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:00:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:00:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:00:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:03:43 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:04:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:04:23 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:04:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:04:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:06:10 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:06:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:06:42 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:07:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:07:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:07:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:07:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:07:41 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:07:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:08:04 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:09:34 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:09:40 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:09:42 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:09:43 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:09:46 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:09:52 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:09:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:10:07 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:10:12 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:10:13 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:11:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:11:30 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:36 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:36 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:37 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:37 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:38 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:11:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:12:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:12:32 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:12:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:13:04 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:13:09 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:13:12 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:13:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:13:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:13:32 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:13:35 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:13:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:14:02 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:22 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:23 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:25 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:16:47 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:17:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:23 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:25 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:30 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:37 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:37 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:18:39 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:50 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:51 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:52 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:19:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:42 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:47 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:26:58 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:28:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:28:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:28:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:28:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:30:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:32:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:32:39 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:32:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:23 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:25 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:27 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:27 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:27 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:36 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:37 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:33:39 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:35:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:36:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:36:03 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:36:29 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:36:34 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:36:36 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:36:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:36:46 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:36:48 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:36:51 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:36:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:37:09 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:37:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 16:37:29 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:37:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:37:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:37:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:37:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 16:38:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 16:38:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:38:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:39:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:39:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 16:39:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:39:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:40:20 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:40:29 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:42:33 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:43:05 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:43:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:43:09 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:44:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:44:18 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:44:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:44:31 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:44:59 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:45:00 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:45:53 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:45:57 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:46:28 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:46:31 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:46:35 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:46:42 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:46:43 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/register skapar ny användare Söndag 12 juni 2022 Kl 16:47:26 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users/ undefined Söndag 12 juni 2022 Kl 16:47:44 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:48:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:48:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:25 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:48:33 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:47 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:48:49 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:48:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:49:15 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:49:26 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:49:30 localhost:4000
+Metod: POST | statuskod: 404 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:50:09 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:50:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:50:22 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 16:50:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 16:50:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare Söndag 12 juni 2022 Kl 16:50:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:51:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:52:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:37 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:38 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:41 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000

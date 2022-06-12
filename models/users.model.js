@@ -102,20 +102,26 @@ async function login(id, data) {
 }
 
 async function lendOne(bookId) {
+  let user;
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  function updatePart(col, data) {
+  const query = `SELECT user_id FROM books WHERE id = '${bookId}'`;
+  let result = await getUser(query);
+  const bookAvailable = (await result) !== "NULL";
+  console.log(bookAvailable);
+
+  if (bookAvailable) {
     db.run(
-      `${bookUserId}
-      SET ${col} = ?
-      WHERE id = ?`,
+      `
+  UPDATE books SET user_id = ?
+    WHERE id = ?`,
       [id, bookId]
     );
+    user = await getOne(id);
+  } else {
+    user = "Boken är inte tillgänglig";
   }
-  updatePart("user_id", id);
-
-  const user = getOne(id);
   return user;
 }
 
@@ -123,12 +129,13 @@ async function returnOne(bookId) {
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  db.run(`
+  db.run(
+    `
   UPDATE books SET user_id = ?
     WHERE id = ?`,
     ["NULL", bookId]
   );
-  const user = getOne(id);
+  const user = await getOne(id);
   return user;
 }
 
