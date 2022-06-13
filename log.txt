@@ -66,3 +66,197 @@ Metod: GET | statuskod: 200 | endpoint: /me hämtar info om inloggad användare 
 Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Måndag 13 juni 2022 Kl 14:05:47 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/1 hämtar en bok Måndag 13 juni 2022 Kl 14:05:48 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/available undefined Måndag 13 juni 2022 Kl 14:08:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Måndag 13 juni 2022 Kl 16:01:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Måndag 13 juni 2022 Kl 16:01:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:08:02 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:08:03 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:08:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:09:28 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:09:55 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:11:41 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:11:53 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:11:54 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:11 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:13 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:13 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:14 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:14 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:14 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:12:14 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:14:25 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:14:26 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:14:27 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:14:53 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:14:55 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:15:06 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:15:07 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:15:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:15:44 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users/ undefined Måndag 13 juni 2022 Kl 16:15:47 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users/ undefined Måndag 13 juni 2022 Kl 16:15:50 localhost:4000
+Metod: GET | statuskod: 400 | endpoint: /users/ undefined Måndag 13 juni 2022 Kl 16:16:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users undefined Måndag 13 juni 2022 Kl 16:16:34 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:37 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:40 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:41 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:41 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:42 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:43 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:43 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:44 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me hämtar info om inloggad användare Måndag 13 juni 2022 Kl 16:20:44 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:22 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:24 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:26 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:27 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:27 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:27 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:28 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:28 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:28 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:28 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:29 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:29 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users Måndag 13 juni 2022 Kl 16:38:44 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:38:48 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users Måndag 13 juni 2022 Kl 16:40:14 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:40:19 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:32 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:33 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:34 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:34 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:35 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:36 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:41:36 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:23 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:24 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:24 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:25 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:25 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:25 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:25 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:26 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:34 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:35 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:35 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:35 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:35 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:42:36 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:01 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:02 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:29 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:30 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:30 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:37 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:38 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:39 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:40 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:41 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:43:43 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:30 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:31 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:32 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:32 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:32 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /user Måndag 13 juni 2022 Kl 16:44:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users Måndag 13 juni 2022 Kl 16:44:36 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /usersasasd Måndag 13 juni 2022 Kl 16:44:39 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users Måndag 13 juni 2022 Kl 16:44:43 localhost:4000
+Metod: GET | statuskod: 403 | endpoint: /me Måndag 13 juni 2022 Kl 16:44:52 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login Måndag 13 juni 2022 Kl 16:44:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me Måndag 13 juni 2022 Kl 16:44:59 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /measas Måndag 13 juni 2022 Kl 16:45:09 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /measas Måndag 13 juni 2022 Kl 16:45:11 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /measas Måndag 13 juni 2022 Kl 16:45:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /me Måndag 13 juni 2022 Kl 16:45:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e7733c23-f541-49e2-bb05-ef4b20070150 Måndag 13 juni 2022 Kl 16:45:24 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e7733c23-f541-49e2-bb05-ef4b20070150 Måndag 13 juni 2022 Kl 16:45:26 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e7733c23-f541-49e2-bb05-ef4b20070150 Måndag 13 juni 2022 Kl 16:45:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ Måndag 13 juni 2022 Kl 16:45:35 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4a14cecb Måndag 13 juni 2022 Kl 16:45:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:45:51 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:48:28 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:48:29 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:51:38 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:51:39 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/1 Måndag 13 juni 2022 Kl 16:54:11 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:16 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:17 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:18 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:19 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:20 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/e05d6e7c-9922-497c-9ccf-780f4 Måndag 13 juni 2022 Kl 16:54:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ Måndag 13 juni 2022 Kl 16:54:58 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/1 Måndag 13 juni 2022 Kl 16:55:04 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 16:55:14 localhost:4000
+Metod: GET | statuskod: 404 | endpoint: /books/ce812f0a-1639-46c5-a645-3ca55e2a74e Måndag 13 juni 2022 Kl 16:55:17 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-9051f15977fb Måndag 13 juni 2022 Kl 16:58:39 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 16:58:44 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:05:28 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:05:30 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:11 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:12 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:13 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:14 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:34 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:07:36 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:08:32 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/f223ebff-8c65-485a-be52-90b Måndag 13 juni 2022 Kl 17:08:33 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:09:09 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:09:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /users Måndag 13 juni 2022 Kl 17:09:17 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/register Måndag 13 juni 2022 Kl 17:09:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/register Måndag 13 juni 2022 Kl 17:09:38 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:10:17 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:10:19 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:10:20 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:10:20 localhost:4000
+Metod: DELETE | statuskod: 200 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:13:41 localhost:4000
+Metod: DELETE | statuskod: 404 | endpoint: /users/db1258c2-4880-4171-b053-04da2a8c40b3 Måndag 13 juni 2022 Kl 17:15:02 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99506948463 Måndag 13 juni 2022 Kl 17:15:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99506948463 Måndag 13 juni 2022 Kl 17:15:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:15:21 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d497a1f98b Måndag 13 juni 2022 Kl 17:16:54 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d497a1f98b Måndag 13 juni 2022 Kl 17:16:55 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d49 Måndag 13 juni 2022 Kl 17:16:59 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d49 Måndag 13 juni 2022 Kl 17:17:00 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d49 Måndag 13 juni 2022 Kl 17:17:48 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-838e-a4d49 Måndag 13 juni 2022 Kl 17:17:49 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:17:51 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:19:46 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:19:48 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:19:49 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:07 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:09 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:09 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:09 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:10 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:21:10 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:18 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:18 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:19 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:19 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:19 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:19 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:28 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:21:29 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:23:50 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:23:53 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:22 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:23 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:24 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:24 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:25 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:26 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:26 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/2653ad8f-6558-4dea-afe5-e99 Måndag 13 juni 2022 Kl 17:24:26 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/e7733c23-f541-49e2-bb05-ef4b20070150 Måndag 13 juni 2022 Kl 17:26:24 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/e7733c23-f541-49e2-bb05-ef4b20070150 Måndag 13 juni 2022 Kl 17:26:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:26:44 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:27:02 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:27:05 localhost:4000
+Metod: PUT | statuskod: 404 | endpoint: /books/7b15a256-8c0f-4267-83zxczxc8e-a4d49 Måndag 13 juni 2022 Kl 17:27:43 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:27:50 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:28:10 localhost:4000
+Metod: PUT | statuskod: 200 | endpoint: /books/ce812f0a-1639-46c5-a645-3cda55e2a74e Måndag 13 juni 2022 Kl 17:28:17 localhost:4000

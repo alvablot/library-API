@@ -30,6 +30,7 @@ async function getAllAvaiable() {
 async function getOne(id) {
   const query = `${fetchTable} WHERE id = '${id}'`;
   const result  = await initBooks(query);
+  if (result.length < 1) return 404;
   return result;
 }
 
@@ -47,6 +48,7 @@ async function addOne(data) {
     binding,
   ]);
   const result = await initBooks(fetchTable);
+  if (result.length < 1) return 404;
   return result;
 }
 
@@ -55,6 +57,7 @@ async function addOne(data) {
 async function deleteOne(id) {
   db.run(`${deleteRow} WHERE id = ?`, id, (err) => {});
   const result  = await initBooks(fetchTable);
+  if (result.length < 1) return 404;
   return result;
 }
 
@@ -80,11 +83,21 @@ async function updateOne(id, data) {
     user_id,
     id,
   ]);
-  const result  = await initBooks(fetchTable);
+  const sql = `${fetchTable} WHERE id = '${id}'`;
+  const result  = await initBooks(sql);
+
+  if (result.length < 1) return 404;
   return result;
 }
 
 async function patchOne(id, data) {
+
+  const query = `${fetchTable} WHERE id = '${id}'`;
+  const result  = await initBooks(query);
+  console.log(result)
+  if (result.length < 1) return 404;
+
+  
   if (data.title) {
     column = "title";
     insert = data.title;
@@ -109,7 +122,7 @@ async function patchOne(id, data) {
     column = "user_id";
     insert = data.user_id;
   }
-  if (data.available) {
+  if (data.available) { 
     column = "available";
     insert = data.available;
   }
@@ -121,7 +134,6 @@ async function patchOne(id, data) {
     [insert, id]
   );
 
-  const result  = initBooks(fetchTable);
   return result;
 }
 

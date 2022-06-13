@@ -123,7 +123,8 @@ async function returnOne(bookId) {
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  db.run(`
+  db.run(
+    `
   UPDATE books SET user_id = ?
     WHERE id = ?`,
     ["NULL", bookId]
@@ -133,6 +134,9 @@ async function returnOne(bookId) {
 }
 
 async function deleteOne(id) {
+  const query = `${fetchTable} WHERE id = '${id}'`;
+  let result = await initTable(query);
+  if (result.length < 1) return 404;
   db.run(`${deleteRow} WHERE id = ?`, id, (err) => {});
   users = initTable(fetchTable);
   return users;

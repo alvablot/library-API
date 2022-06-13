@@ -7,32 +7,12 @@ const fs = require("fs");
 const app = express();
 const port = require("../routers/endpoints");
 const timeStamp = require("./timeStamp");
-let result;
+//let result;
 const log = (req, res, next) => {
   const { method, url, route, hostname, rawHeaders } = req;
   res.on("finish", async () => {
-    let id = req.params.id;
-    result = await booksModel.getOne(id).then(function (result) {
-      let mess;
-      if (id === undefined) id = false;
-      let now = timeStamp();
-      endpoints = url.split("/");
-      //console.log(id);
-      if (endpoints[1] === "auth") {
-        if (endpoints[2] === "register") mess = "skapar ny användare";
-        if (endpoints[2] === "login") mess = "loggar in användare";
-      }
-      if (endpoints[1] === "books" && !endpoints[2] === "books") mess = "hämtar alla böcker";
-      if (id && method === "POST") mess = "skapar ny bok";
-      if (id && method === "GET") mess = `hämtar en bok`;
-      if (id && method === "PATCH") mess = "uppdaterar bok";
-      if (id && method === "DELETE") mess = "ta bort bok";
 
-      if (endpoints[1] === "users") {
-        if (endpoints[2] === "lend") mess = "lånar bok";
-        if (endpoints[2] === "return") mess = "återlämnar bok";
-      }
-      if (endpoints[1] === "me") mess = "hämtar info om inloggad användare";
+      let now = timeStamp();
 
       let logRow =
         "Metod: " +
@@ -41,8 +21,8 @@ const log = (req, res, next) => {
         res.statusCode +
         " | endpoint: " +
         url +
-        " " +
-        mess +
+        //" " +
+        //mess +
         " " +
         timeStamp() +
         " " +
@@ -56,7 +36,7 @@ const log = (req, res, next) => {
       });
 
       //console.log(res.route);
-    });
+   // });
   });
   next();
 };

@@ -36,12 +36,11 @@ async function lendUser(req, res) {
 
 async function returnUser(req, res) {
   const bookId = req.body.book_id;
-  
+
   let result = await model.returnOne(bookId);
   if (result === 403) return res.status(403).send("Du måste vara inloggad");
   if (result === 404) return res.status(404).send("Inget match på bok-id");
-  res.json(result)
-  ;
+  res.json(result);
 }
 
 async function postUser(req, res) {
@@ -56,6 +55,7 @@ async function postUser(req, res) {
 async function deleteUser(req, res) {
   const id = req.params.id;
   result = await model.deleteOne(id);
+  if (result === 404) return res.status(404).send("Inget match på amvändare");
   res.json(result);
 }
 
@@ -63,7 +63,8 @@ async function patchUser(req, res) {
   const id = req.params.id;
   const data = req.body;
   const result = await model.patchOne(id, data);
-  // if (result === 404) return res.status(404).json({ error: "Bil finns ej" });
+  if (result === 404)
+    return res.status(404).json({ error: "Användaren finns ej" });
   res.json(result);
 }
 
