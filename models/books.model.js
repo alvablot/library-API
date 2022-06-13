@@ -2,7 +2,7 @@ const uuid = require("uuid");
 const db = require("../database.js");
 let books;
 const fetchTable = "SELECT * FROM books";
-const fetchAvaiableBooks = "SELECT * FROM books";
+const fetchAvaiable = "SELECT * FROM books WHERE user_id = 'NULL'";
 const deleteRow = "DELETE FROM books ";
 const insertRow = "INSERT INTO books";
 const updateRow = "UPDATE books";
@@ -20,58 +20,31 @@ async function getAll() {
   return result;
 }
 
-async function getAvailable() {
-  const query = `SELECT * FROM books WHERE available = 'true'`;
+async function getAllAvaiable() {
+  const query = fetchAvaiable;
   const result = await initBooks(query);
   return result;
 }
 
+
 async function getOne(id) {
   const query = `${fetchTable} WHERE id = '${id}'`;
-  let result = await initBooks(query);
-  if (result.length < 1) result = 404;
-  //if(result.length < 1) result = 404;
+  const result  = await initBooks(query);
   return result;
 }
 
 async function addOne(data) {
-  let { title, author, isbn, publication_date, binding } = data;
+  let { title, author, isbn, publication_date, binding} = data;
   const query = `
   ${insertRow} (id, title, author, isbn, publication_date, binding) 
   VALUES(?, ?, ?, ?, ?, ?)`;
-  db.run(query, [uuid.v4(), title, author, isbn, publication_date, binding]);
-  const result = await initBooks(fetchTable);
-  return result;
-}
-
-async function deleteOne(id) {
-  db.run(`${deleteRow} WHERE id = ?`, id, (err) => {});
-  const result = await initBooks(fetchTable);
-  return books;
-}
-
-let column;
-let insert;
-async function updateOne(id, data) {
-  let { title, author, isbn, publication_date, binding, user_id, avaiable } = data;
-  var query = `${updateRow} 
-    SET 
-      title = ?, 
-      author = ?, 
-      isbn = ?, 
-      publication_date = ?, 
-      binding = ?,
-      user_id = ?,
-      avaiable = ?,    
-    WHERE id=?`;  
   db.run(query, [
+    uuid.v4(),
     title,
     author,
     isbn,
     publication_date,
     binding,
-    user_id,
-    avaiable,
   ]);
   const result = await initBooks(fetchTable);
   return result;
@@ -79,9 +52,67 @@ async function updateOne(id, data) {
 
 
 
+async function deleteOne(id) {
+  db.run(`${deleteRow} WHERE id = ?`, id, (err) => {});
+  const result  = await initBooks(fetchTable);
+  return result;
+}
+
+let column;
+let insert;
+async function updateOne(id, data) {
+  let { title, author, isbn, publication_date, binding, user_id } = data;
+  var query = `${updateRow} 
+    SET 
+      title = ?, 
+      author = ?, 
+      isbn = ?, 
+      publication_date = ?, 
+      binding = ?,
+      user_id = ?    
+    WHERE id=?`;
+  db.run(query, [
+    title,
+    author,
+    isbn,
+    publication_date,
+    binding,
+    user_id,
+    id,
+  ]);
+  const result  = await initBooks(fetchTable);
+  return result;
+}
+
 async function patchOne(id, data) {
-  //.log(data.title);
- 
+  if (data.title) {
+    column = "title";
+    insert = data.title;
+  }
+ if (data.author) {
+    column = "author";
+    insert = data.author;
+  }
+  if (data.isbn) {
+    column = "isbn";
+    insert = data.isbn;
+  }
+  if (data.publication_date) {
+    column = "publication_date";
+    insert = data.publication_date;
+  }
+  if (data.binding) {
+    column = "binding";
+    insert = data.binding;
+  }
+  if (data.user_id) {
+    column = "user_id";
+    insert = data.user_id;
+  }
+  if (data.available) {
+    column = "available";
+    insert = data.available;
+  }
 
   db.run(
     `${updateRow}
@@ -89,48 +120,15 @@ async function patchOne(id, data) {
     WHERE id = ?`,
     [insert, id]
   );
-  }
-  if (data.title !== undefined) {
-    column = "title";
-    insert = data.title;
-  }
-  if (data.author !== undefined) {
-    column = "author";
-    insert = data.author;
-  }
-  if (data.isbn !== undefined) {
-    column = "isbn";
-    insert = data.isbn;
-  }
-  if (data.publication_date !== undefined) {
-    column = "publication_date";
-    insert = data.publication_date;
-  }
-  if (data.binding !== undefined) {
-    column = "binding";
-    insert = data.binding;
-  }
-  if (data.user_id !== undefined) {
-    column = "user_id";
-    insert = data.user_id;
-  }
-  if (data.available !== undefined) {
-    column = "available";
-    insert = data.available;
-  }
-  const result = initBooks(fetchTable);
+
+  const result  = initBooks(fetchTable);
   return result;
 }
-
-
-
-
-
 
 module.exports = {
   books,
   getAll,
-  getAvailable,
+  getAllAvaiable,
   getOne,
   addOne,
   deleteOne,

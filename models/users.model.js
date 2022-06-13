@@ -102,31 +102,23 @@ async function login(id, data) {
 }
 
 async function lendOne(bookId) {
-  let user;
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  
-  const avaiableBook = `SELECT available FROM books WHERE id = '${bookId}'`;
-  let result = await getUser(avaiableBook);
-  console.log(result);
-  const bookAvailable = (await result) !== "false";
-  console.log(bookAvailable);
-
-  if (bookAvailable) {
+  function updatePart(col, data) {
     db.run(
-      `
-  UPDATE books SET user_id = ?
-    WHERE id = ?`,
+      `${bookUserId}
+      SET ${col} = ?
+      WHERE id = ?`,
       [id, bookId]
     );
-    user = await getOne(id);
-  } else {
-    user = "Boken är inte tillgänglig";
   }
+  updatePart("user_id", id);
+
+  const user = getOne(id);
   return user;
-  
 }
+
 async function returnOne(bookId) {
   const id = activeUser.id;
   if (!token) return 403;
@@ -145,12 +137,12 @@ async function deleteOne(id) {
   users = initTable(fetchTable);
   return users;
 }
-/*
+
 async function updateOne(id, data) {
   const query = `SELECT * FROM users SET first_name WHERE id = 3`;
   db.run(query, ["Olle"]);
 }
-*/
+
 async function patchOne(id, data) {
   function updatePart(col, data) {
     db.run(
@@ -179,5 +171,6 @@ module.exports = {
   lendOne,
   returnOne,
   deleteOne,
+  updateOne,
   patchOne,
 };
