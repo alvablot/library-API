@@ -559,3 +559,273 @@ Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 ju
 Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000
 Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 16:53:42 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 19:55:58 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 19:59:01 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:33 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:49 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:49 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:00:50 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:01:25 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:01:27 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:01:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:01:59 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:01 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:45 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:02:46 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:05:00 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:05:01 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:05:01 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:06:32 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:06:35 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:06:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:07:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:07:18 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:07:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:07:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:07:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:09:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:09:09 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:09:10 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:15 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:16 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:17 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:18 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:52 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:55 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:55 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:55 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:11:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:12 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:13 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:14 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 20:13:19 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:13:40 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:14:11 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:14:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:14:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:14:29 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:15:20 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:15:21 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:15:22 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:15:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:15:23 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 20:22:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:27:02 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 20:27:27 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:27:33 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:27:34 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 20:27:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:27:57 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:28:05 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:30:02 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:30:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:30:11 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:31:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:31:09 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:31:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:31:15 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:31:54 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:31:58 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:32:15 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:32:36 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:32:42 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:32:44 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:33:34 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:37 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:39 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:33:52 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:33:56 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:34:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:34:05 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:35:16 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:35:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:35:20 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:35:21 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:36:07 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:10 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:12 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:12 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:51 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:36:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:36:59 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:38:41 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:38:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:39:45 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:39:48 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:41:11 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:41:13 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:41:14 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:41:15 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Söndag 12 juni 2022 Kl 20:43:55 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Söndag 12 juni 2022 Kl 20:44:00 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/return återlämnar bok Söndag 12 juni 2022 Kl 20:44:03 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:45:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:49:12 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:49:13 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:49:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:49:23 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:10 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:12 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:13 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:16 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:25 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:26 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:27 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:27 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:28 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:29 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/5fbbbe6d-bd45-43b5-b472-c2aa17dc7d6e uppdaterar bok Söndag 12 juni 2022 Kl 20:54:29 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/3 uppdaterar bok Söndag 12 juni 2022 Kl 20:54:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/3 uppdaterar bok Söndag 12 juni 2022 Kl 20:54:35 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/3 uppdaterar bok Söndag 12 juni 2022 Kl 20:54:51 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /users/a9b3b4a4-71bd-49b5-bffd-8049c9fb61ac uppdaterar bok Söndag 12 juni 2022 Kl 20:55:04 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:35 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:37 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:38 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:38 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:39 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:55:40 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:12 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:13 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:13 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:13 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:14 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:15 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:16 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:16 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:16 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:16 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:17 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:17 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:17 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:30 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:32 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:34 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:36 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Söndag 12 juni 2022 Kl 20:58:44 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 20:58:53 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 20:58:54 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 21:00:08 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 21:00:35 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 21:00:36 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books undefined Söndag 12 juni 2022 Kl 21:02:50 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Söndag 12 juni 2022 Kl 21:02:56 localhost:4000
+Metod: GET | statuskod: 200 | endpoint: /books/available undefined Måndag 13 juni 2022 Kl 11:12:32 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/register skapar ny användare Måndag 13 juni 2022 Kl 11:12:46 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:13:19 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:13:29 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:13:38 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:13:48 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:22 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:23 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:53 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:53 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:54 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:54 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:14:55 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:04 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:06 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:15:09 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:12 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:13 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:41 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:15:44 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:15:47 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:18:44 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:18:45 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:18:45 localhost:4000
+Metod: POST | statuskod: 403 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:18:46 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:19:24 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:19:26 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /auth/login loggar in användare Måndag 13 juni 2022 Kl 11:20:03 localhost:4000
+Metod: POST | statuskod: 200 | endpoint: /users/lend lånar bok Måndag 13 juni 2022 Kl 11:20:07 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Måndag 13 juni 2022 Kl 11:25:47 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132%22 uppdaterar bok Måndag 13 juni 2022 Kl 11:25:49 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:05 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:06 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:07 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:07 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:07 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:07 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:32 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:32 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:33 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:34 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:34 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:43 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:26:44 localhost:4000
+Metod: PATCH | statuskod: 200 | endpoint: /books/c22ec733-bb08-43f4-8b38-aadc548d3132 uppdaterar bok Måndag 13 juni 2022 Kl 11:27:01 localhost:4000

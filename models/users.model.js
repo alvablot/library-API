@@ -106,9 +106,11 @@ async function lendOne(bookId) {
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  const query = `SELECT user_id FROM books WHERE id = '${bookId}'`;
-  let result = await getUser(query);
-  const bookAvailable = (await result) !== "NULL";
+  
+  const avaiableBook = `SELECT available FROM books WHERE id = '${bookId}'`;
+  let result = await getUser(avaiableBook);
+  console.log(result);
+  const bookAvailable = (await result) !== "false";
   console.log(bookAvailable);
 
   if (bookAvailable) {
@@ -123,6 +125,7 @@ async function lendOne(bookId) {
     user = "Boken är inte tillgänglig";
   }
   return user;
+  
 }
 
 async function returnOne(bookId) {
@@ -131,10 +134,10 @@ async function returnOne(bookId) {
   if (!bookId) return 404;
   db.run(
     `
-  UPDATE books SET user_id = ?
+  UPDATE books SET avaiable, user_id = ?, ?
     WHERE id = ?`,
-    ["NULL", bookId]
-  );
+    ["true", "NULL", bookId]
+  ); 
   const user = await getOne(id);
   return user;
 }
@@ -143,11 +146,6 @@ async function deleteOne(id) {
   db.run(`${deleteRow} WHERE id = ?`, id, (err) => {});
   users = initTable(fetchTable);
   return users;
-}
-
-async function updateOne(id, data) {
-  const query = `SELECT * FROM users SET first_name WHERE id = 3`;
-  db.run(query, ["Olle"]);
 }
 
 async function patchOne(id, data) {
@@ -178,6 +176,5 @@ module.exports = {
   lendOne,
   returnOne,
   deleteOne,
-  updateOne,
   patchOne,
 };

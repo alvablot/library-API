@@ -26,7 +26,8 @@ const db = new sqlite3.Database(dbFile, (error) => {
     isbn VARCHAR (255),
     publication_date DATE,
     binding VARCHAR (255),
-    user_id VARCHAR (255) DEFAULT NULL
+    user_id VARCHAR (255),
+    available BOOLEAN DEFAULT (true)
   )
   `;
   if (!exists) {
@@ -59,8 +60,9 @@ const db = new sqlite3.Database(dbFile, (error) => {
         isbn,
         author,
         title,
-        id
-      ) VALUES (?, ?, ?, ?, ?, ?, ?)`;
+        id,
+        available
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)`;
 
       db.run(insertBooks, [
         "NULL",
@@ -70,6 +72,7 @@ const db = new sqlite3.Database(dbFile, (error) => {
         "Stephen King",
         "Lida",
         uuid.v4(),
+       "true"
       ]);
       db.run(insertBooks, [
         "NULL",
@@ -79,6 +82,7 @@ const db = new sqlite3.Database(dbFile, (error) => {
         "Astrid Lindgren",
         "Emil i Lönneberga",
         uuid.v4(),
+        "true"
       ]);
       db.run(insertBooks, [
         "NULL",
@@ -88,6 +92,7 @@ const db = new sqlite3.Database(dbFile, (error) => {
         "Bret Easton Ellis",
         "American Psycho",
         uuid.v4(),
+        "true"
       ]);
     });
   }

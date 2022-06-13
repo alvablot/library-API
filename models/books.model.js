@@ -21,7 +21,7 @@ async function getAll() {
 }
 
 async function getAvailable() {
-  const query = `SELECT * FROM books WHERE user_id = 'NULL'`;
+  const query = `SELECT * FROM books WHERE available = 'true'`;
   const result = await initBooks(query);
   return result;
 }
@@ -53,7 +53,7 @@ async function deleteOne(id) {
 let column;
 let insert;
 async function updateOne(id, data) {
-  let { title, author, isbn, publication_date, binding, borrower_id } = data;
+  let { title, author, isbn, publication_date, binding, user_id, avaiable } = data;
   var query = `${updateRow} 
     SET 
       title = ?, 
@@ -61,16 +61,17 @@ async function updateOne(id, data) {
       isbn = ?, 
       publication_date = ?, 
       binding = ?,
-      borrower_id = ?    
-    WHERE id=?`;
+      user_id = ?,
+      avaiable = ?,    
+    WHERE id=?`;  
   db.run(query, [
     title,
     author,
     isbn,
     publication_date,
     binding,
-    borrower_id,
-    id,
+    user_id,
+    avaiable,
   ]);
   const result = await initBooks(fetchTable);
   return result;
@@ -98,9 +99,13 @@ async function patchOne(id, data) {
     column = "binding";
     insert = data.binding;
   }
-  if (data.borrower_id !== undefined) {
-    column = "borrower_id";
-    insert = data.borrower_id;
+  if (data.user_id !== undefined) {
+    column = "user_id";
+    insert = data.user_id;
+  }
+  if (data.available !== undefined) {
+    column = "available";
+    insert = data.available;
   }
 
   db.run(
