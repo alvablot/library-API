@@ -127,18 +127,16 @@ async function lendOne(bookId) {
   return user;
   
 }
-
 async function returnOne(bookId) {
   const id = activeUser.id;
   if (!token) return 403;
   if (!bookId) return 404;
-  db.run(
-    `
-  UPDATE books SET avaiable, user_id = ?, ?
+  db.run(`
+  UPDATE books SET user_id = ?
     WHERE id = ?`,
-    ["true", "NULL", bookId]
-  ); 
-  const user = await getOne(id);
+    ["NULL", bookId]
+  );
+  const user = getOne(id);
   return user;
 }
 
@@ -147,7 +145,12 @@ async function deleteOne(id) {
   users = initTable(fetchTable);
   return users;
 }
-
+/*
+async function updateOne(id, data) {
+  const query = `SELECT * FROM users SET first_name WHERE id = 3`;
+  db.run(query, ["Olle"]);
+}
+*/
 async function patchOne(id, data) {
   function updatePart(col, data) {
     db.run(

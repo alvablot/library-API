@@ -77,8 +77,19 @@ async function updateOne(id, data) {
   return result;
 }
 
+
+
 async function patchOne(id, data) {
   //.log(data.title);
+ 
+
+  db.run(
+    `${updateRow}
+    SET ${column} = ?
+    WHERE id = ?`,
+    [insert, id]
+  );
+  }
   if (data.title !== undefined) {
     column = "title";
     insert = data.title;
@@ -107,17 +118,14 @@ async function patchOne(id, data) {
     column = "available";
     insert = data.available;
   }
-
-  db.run(
-    `${updateRow}
-    SET ${column} = ?
-    WHERE id = ?`,
-    [insert, id]
-  );
-
   const result = initBooks(fetchTable);
   return result;
 }
+
+
+
+
+
 
 module.exports = {
   books,

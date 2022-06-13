@@ -40,18 +40,18 @@ async function deleteBook(req, res) {
 async function putBook(req, res) {
   const id = req.params.id;
   const data = req.body;
-  //console.log(data);
-  const result = await model.updateOne(id, data);
-  if (result === 404) return res.status(404).json({ error: "Bok finns ej" });
-  res.json(result);
+  console.log(data);
+ // const result = await model.updateOne(id, data);
+  //if (result === 404) return res.status(404).json({ error: "Bok finns ej" });
+ // res.json(result);
 }
 
 async function patchBook(req, res) {
   const id = req.params.id;
   const data = req.body;
-  const result = await model.patchOne(id, data);
-  if (result === 404) return res.status(404).json({ error: "Bok finns ej" });
-  res.json(result);
+  //const result = await model.patchOne(id, data);
+ // if (result === 404) return res.status(404).json({ error: "Bok finns ej" });
+  res.json(data);
 }
 
 module.exports = {
