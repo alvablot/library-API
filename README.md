@@ -3,7 +3,7 @@
 
 ### How to install
 
-Download and run in theproject root folder
+Download and run in the project root folder
 ```
 $ npm istall
 ```
